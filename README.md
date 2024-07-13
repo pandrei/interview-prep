@@ -10,8 +10,8 @@
 
 ## Searching Algorithms
 - [Binary Search](search/binary-search.md) - Efficiently searches a sorted array by repeatedly dividing the search interval in half.
-- [Depth-First Search (DFS)](search/Depth-first Search (DFS).md) - Explores as far as possible along each branch before backtracking.
-- [Breadth-First Search (BFS)](search/Breadth-first Search (BFS).md) - Explores all neighbors at the present depth before moving on to nodes at the next depth level.
+- [Depth-First Search (DFS)](search/depth-first-search.md) - Explores as far as possible along each branch before backtracking.
+- [Breadth-First Search (BFS)](search/breadth-first-search.md) - Explores all neighbors at the present depth before moving on to nodes at the next depth level.
 
 ## Graph Algorithms
 - Dijkstra's Algorithm - Finds the shortest paths from a source vertex to all other vertices in a weighted graph.
