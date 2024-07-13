@@ -1,17 +1,17 @@
 # Algorithms relevant for interviews
 
 ## Sorting Algorithms
-- Quick Sort - A divide-and-conquer algorithm that selects a pivot and partitions the array around the pivot.
-- Merge Sort - A divide-and-conquer algorithm that divides the array into halves, sorts them, and then merges them back together.
+- [Quick Sort](sort/quick-sort.md) - A divide-and-conquer algorithm that selects a pivot and partitions the array around the pivot.
+- [Merge Sort](sort/merge-sort.md) - A divide-and-conquer algorithm that divides the array into halves, sorts them, and then merges them back together.
 - Bubble Sort - A simple comparison-based algorithm that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order.
-- Insertion Sort - Builds the final sorted array one item at a time by repeatedly inserting the next element into the correct position.
+- [Insertion Sort](sort/insertion-sort.md) - Builds the final sorted array one item at a time by repeatedly inserting the next element into the correct position.
 - Selection Sort - Divides the input list into two parts: a sorted and an unsorted part, then repeatedly selects the smallest element from the unsorted part and moves it to the sorted part.
-- Heap Sort - Converts the array into a heap structure, then repeatedly extracts the maximum element from the heap and rebuilds the heap.
+- [Heap Sort](sort/heap-sort.md) - Converts the array into a heap structure, then repeatedly extracts the maximum element from the heap and rebuilds the heap.
 
 ## Searching Algorithms
-- Binary Search - Efficiently searches a sorted array by repeatedly dividing the search interval in half.
-- Depth-First Search (DFS) - Explores as far as possible along each branch before backtracking.
-- Breadth-First Search (BFS) - Explores all neighbors at the present depth before moving on to nodes at the next depth level.
+- [Binary Search](search/binary-search.md) - Efficiently searches a sorted array by repeatedly dividing the search interval in half.
+- [Depth-First Search (DFS)](search/Depth-first Search (DFS).md) - Explores as far as possible along each branch before backtracking.
+- [Breadth-First Search (BFS)](search/Breadth-first Search (BFS).md) - Explores all neighbors at the present depth before moving on to nodes at the next depth level.
 
 ## Graph Algorithms
 - Dijkstra's Algorithm - Finds the shortest paths from a source vertex to all other vertices in a weighted graph.
